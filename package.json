@@ -38,13 +38,14 @@
     "del": "^1.2.0",
     "esprima": "^1.2.5",
     "google-closure-compiler-js": "^20170124.0.0",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-util": "^3.0.5",
     "handlebars": "^4.0.3",
-    "hapi": "^8.6.1",
+    "hapi": "^17.6.0",
     "imports-loader": "^0.6.4",
     "jquery": "^3.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
+    "lodash.update": "^4.10.2",
     "microtime": "^2.0.0",
     "minimist": "^1.1.1",
     "node-libs-browser": "^0.5.2",
@@ -53,7 +54,7 @@
     "traceur": "^0.0.111",
     "typescript": "^2.1.4",
     "user-home": "^2.0.0",
-    "webdriverio": "^2.4.5",
+    "webdriverio": "^4.13.2",
     "webpack": "^1.9.11"
   }
 }
